@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 section{
     background-color: white;
@@ -96,8 +97,8 @@ p{
 }
 
 .sub-section{
-    border-bottom: 5px solid rgb(18, 170, 240);
-    border-top: 5px solid blueviolet;
+    border-top: 5px solid rgb(18, 170, 240);
+    border-bottom: 5px solid coral;
     display:flex;
     justify-content: space-around;
     padding: 80px;
