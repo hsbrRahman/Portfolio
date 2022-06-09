@@ -100,6 +100,7 @@ p{
 }
 
 .sub-section{
+    background-color: lightgrey;
     border-top: 5px solid rgb(18, 170, 240);
     border-bottom: 5px solid coral;
     display:flex;
