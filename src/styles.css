@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
     overflow-x: hidden;
+    scroll-behavior: smooth;
     /* box-shadow: 5px 3px 5px 3px grey; */
 
 }
@@ -174,4 +175,8 @@ a{
     ul.show{
         display:block;
     }
+}
+
+html{
+    scroll-behavior: smooth;
 }
