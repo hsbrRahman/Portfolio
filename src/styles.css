@@ -119,6 +119,12 @@ p{
     height: 500px;
     box-shadow: 5px 5px 20px grey;
 }
+#project-card{
+    background-image: url("./images/padma.png");
+    font-size: 40px;
+    font-family: lucida-bold;
+}
+
 .project-container{
     display:flex;
     justify-content: space-around;
