@@ -126,12 +126,35 @@ p{
     height: 500px;
     box-shadow: 5px 5px 20px grey;
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
 #project-card{
     background-image: url("./images/padma.png");
     font-size: 40px;
     font-family: lucida-bold;
 }
+.temp{
+    display: flex;
+    padding-top: 20%;
+    padding-left:40%;
+    text-align: center;
+    align-items: center;
+    color:black;
+}
 
+#project-card1{
+    background-image: url("/bg.jpg");
+    background-position: cover;
+    font-size: 40px;
+    font-family: lucida-bold;
+}
+.proj1{
+    color:black;
+}
 .project-container{
     display:flex;
     justify-content: space-around;
@@ -147,10 +170,7 @@ p{
     }
 }
 
-a{
-    text-decoration: none;
-    color: white;
-}
+
 .burger{
     display:none;
 }
